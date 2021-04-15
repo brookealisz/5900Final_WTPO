@@ -7,8 +7,8 @@ var button;
 
 function preload()
   {
-    WTPO1 = loadImage("photos/WTPO1.jpg");
-    WTPO2 = loadImage("photos/WTPO2.jpg");
+    WTPO1 = loadImage("WTPO1.jpg");
+    WTPO2 = loadImage("WTPO2.jpg");
   }
 
 //built in function to p5js, it runs once
